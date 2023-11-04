@@ -1,0 +1,133 @@
+.footer {
+  position: relative;
+  top: 100px;
+  width: 100%;
+  margin-top: 80px;
+  padding: 30px 20px;
+  border-radius: 30px 30px 0 0;
+  background: rgb(0, 0, 0);
+  box-shadow: 0 8px 52px 0 rgba(31, 38, 135, 0.37);
+}
+.footer .footerdata {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 150px;
+}
+.footer .footerdata a {
+  text-decoration: none;
+}
+.footer .footerdata h1 {
+  color: #fff;
+  font-size: 2rem;
+  line-height: 30px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+.footer .footerdata h3 {
+  color: #fff;
+  font-size: 1rem;
+  line-height: 26px;
+  font-weight: 400;
+}
+.footer .footerdata img {
+  margin-top: -25px;
+  width: 100px;
+  height: 100px;
+}
+.footer hr {
+  border: 1px solid #fff;
+  margin: 15px 0px;
+}
+.footer .footerdownload {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.footer .footerdownload h1 {
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: 10px 0px 5px 0px;
+}
+.footer .footerdownload a {
+  text-decoration: none;
+  color: #000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  background-color: #fff;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+.footer .footerdownload a p {
+  font-size: 1rem;
+  font-weight: 700;
+}
+.footer .footerlinks {
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.footer .footerlinks h1 {
+  color: #fff;
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin: 10px 0px 5px 0px;
+}
+.footer .footerlinks .iconslinks {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+}
+.footer .footerlinks .iconslinks p {
+  text-align: center;
+  margin-top: -10px;
+  margin-bottom: 15px;
+  color: #fff;
+  font-size: 0.65rem;
+  font-weight: 400;
+}
+.footer .footerlinks .iconslinks .icons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.footer .footerdisclamer {
+  margin-top: 10px;
+}
+.footer .footerdisclamer p {
+  text-align: center;
+  color: #fff;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+.footer .footerdisclamer p.developer {
+  margin-top: 10px;
+  font-size: 0.4rem;
+}
+.footer .footerdisclamer p img {
+  position: relative;
+  top: 5px;
+  margin-top: 0px 5px;
+}
+.footer .footerdisclamer .disclamerlinks {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+.footer .footerdisclamer .disclamerlinks a {
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 400;
+  text-decoration: none;
+}/*# sourceMappingURL=Footer.css.map */

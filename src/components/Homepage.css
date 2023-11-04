@@ -1,0 +1,26 @@
+.mainsection{
+    position: relative;
+    top: 100px;
+    left: 0px;
+    padding: 0px 10px;
+}
+
+h1 {
+    margin: 15px 0px;
+    font-size: 1.7rem;
+    font-weight: 600;
+    line-height: 40px;
+}
+h1 span {
+    color: #03b5aa;
+    font-weight: 600px;
+}
+
+h3 {
+    text-align: justify;
+    position: relative;
+    margin: 50px 0px;
+    font-size: 0.85rem;
+    font-weight: 300;
+    line-height: 20px;
+}
